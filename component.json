@@ -1,0 +1,15 @@
+{
+  "name": "extend",
+  "repo": "anthonyshort/extend",
+  "description": "Underscore.js extend function",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/each": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
